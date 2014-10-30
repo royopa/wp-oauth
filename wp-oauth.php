@@ -614,7 +614,7 @@ Class WPOA {
 				<p>
 					<strong>Instructions:</strong>
 					<ol>
-						<li>Register as a Github Developer at <a href='https://developers.github.com/'>developers.github.com</a>.</li>
+						<li>Register as a Github Developer at <a href='https://developer.github.com/'>developer.github.com</a>.</li>
 						<li>At Github, create a new App. This will enable your site to access the Github API.</li>
 						<li>At Github, provide your site's homepage URL (<?php echo $blog_url; ?>) for the new App's Redirect URI. Don't forget the trailing slash!</li>
 						<li>Paste your API Key/Secret provided by Github into the fields above, then click Save Changes at the bottom of this page.</li>
